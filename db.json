@@ -1,0 +1,21 @@
+{
+    "data": {
+        "map": {
+            "12345": {
+                "status": "ACTIVE",
+                "cosa": "1"
+            },
+            "54321": {
+                "status": "ACTIVE",
+                "cosa": "1"
+            },
+            "99999": {
+                "status": "ACTIVE",
+                "cosa": "1"
+            }
+        },
+        "pages": 1239
+    },
+    "error": null,
+    "status": 200
+}
